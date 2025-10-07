@@ -11,10 +11,11 @@ body {
     bacground-color: white;
     border-radius: 15px:
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-alight: center;
 }
 
 
-.kartu-prifil img {
+.kartu-profil img {
     width:  150px
     border-radius:  50%;
 }
